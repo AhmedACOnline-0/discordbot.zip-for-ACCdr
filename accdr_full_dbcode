@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "properties":"TOKEN_HERE", // Do not share your token to the public! keep it very private!
+    "embed": {
+      "pt":"accdr/discordbot/embeds/r8p/embed.accdr",
+      "pos": under("response")
+    }
+    "response": {
+      "message":"Hello, I an **a bot created by ACCdr**. Markdown are supported, and you can change this later on.",
+      "ephemeral": false
+    }
+  }
+}
